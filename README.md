@@ -22,7 +22,10 @@
 <p align="center">
   <strong>Frontend (Mobile):</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,jetpackcompose,androidstudio,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" height="40" />
+  </a>
+  <a href="https://developer.android.com/jetpack/compose">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" />
   </a>
 </p>
 
