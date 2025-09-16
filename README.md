@@ -1,11 +1,11 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Halo!+Saya+Muhammad+Rifky;Full-Stack+Developer;Mobile,+Web+&+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Halo!+Saya+Muhammad+Rifky;Full-Stack+Developer;Mahasiswa+Teknik+Informatika" alt="Typing SVG" />
   </a>
   
   <p>
-    Saya seorang developer yang bersemangat dalam membangun aplikasi yang fungsional dan intuitif. Saya memiliki pengalaman dalam mengembangkan aplikasi mobile (<strong>Kotlin & Flutter</strong>), antarmuka web yang responsif (<strong>Vue.js & Vite</strong>), serta membangun API backend yang solid menggunakan <strong>Laravel</strong> dan <strong>Golang</strong>.
+    Saya seorang <b>mahasiswa D4 Teknik Informatika di Universitas Logistik dan Bisnis Internasional (ULBI)</b> sekaligus developer yang bersemangat dalam membangun aplikasi. Saya memiliki pengalaman mengembangkan aplikasi mobile (<strong>Kotlin & Flutter</strong>), antarmuka web (<strong>Vue.js & Vite</strong>), serta membangun API backend menggunakan <strong>Laravel</strong> dan <strong>Golang</strong>.
   </p>
 
   <p>
@@ -26,27 +26,39 @@
   <img src="https://img.shields.io/badge/🚀_Kemampuan_&_Teknologi-7aa2f7?style=for-the-badge&logoColor=white" alt="Kemampuan & Teknologi"/>
 </p>
 
-<p align="center">
-  <strong>Frontend (Mobile):</strong><br>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" />
-</p>
-<p align="center">
-  <strong>Frontend (Web):</strong><br>
-  <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css" />
-</p>
-<p align="center">
-  <strong>Backend:</strong><br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,go" />
-</p>
-<p align="center">
-  <strong>Database:</strong><br>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-<p align="center">
-  <strong>Tools & Lainnya:</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
-</p>
+<table align="center">
+  <tr>
+    <td align="left" valign="top"><strong>Frontend (Mobile)</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Frontend (Web)</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Backend</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=php,laravel,go" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Database</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mysql,firebase" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" height="40" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
