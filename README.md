@@ -1,46 +1,53 @@
-<p align="center">
-  <img src="https://path.to/your/banner-image.png" alt="Banner Profil GitHub" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Halo, saya Muhammad Rifky (KYCE26)</h1>
+  <h1>
+    Halo! Saya Muhammad Rifky
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  </h1>
+  
+  <h3>Full-Stack Developer (Mobile, Web & Backend)</h3>
 
-<p align="center">
-  Saya seorang <strong>Full-Stack Developer</strong> yang bersemangat dalam membangun aplikasi yang fungsional dan intuitif. Saya memiliki pengalaman dalam mengembangkan aplikasi mobile (<strong>Kotlin & Flutter</strong>), antarmuka web yang responsif (<strong>Vue.js & Vite</strong>), serta membangun API backend yang solid menggunakan <strong>Laravel</strong> dan <strong>Golang</strong>.
-</p>
+  <p>
+    Saya seorang developer yang bersemangat dalam membangun aplikasi yang fungsional dan intuitif. Saya memiliki pengalaman dalam mengembangkan aplikasi mobile (<strong>Kotlin & Flutter</strong>), antarmuka web yang responsif (<strong>Vue.js & Vite</strong>), serta membangun API backend yang solid menggunakan <strong>Laravel</strong> dan <strong>Golang</strong>.
+  </p>
+  
+</div>
 
 <br>
 
-## 🚀 Kemampuan & Teknologi
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Kemampuan_&_Teknologi-7aa2f7?style=for-the-badge&logoColor=white" alt="Kemampuan & Teknologi"/>
+</p>
 
-<p align="left">
+<p align="center">
   <strong>Frontend (Mobile):</strong><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,jetpackcompose,androidstudio,flutter,dart" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Frontend (Web):</strong><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Backend:</strong><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,go" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Database:</strong><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Tools & Lainnya:</strong><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
@@ -49,7 +56,9 @@
 
 <br>
 
-## 📊 Statistik GitHub Saya
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_Statistik_GitHub-bb9af7?style=for-the-badge&logoColor=white" alt="Statistik GitHub"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -63,16 +72,16 @@
 
 <br>
 
-## 📫 Hubungi Saya
+<p align="center">
+  <img src="https://img.shields.io/badge/📫_Hubungi_Saya-7dcfff?style=for-the-badge&logoColor=white" alt="Hubungi Saya"/>
+</p>
 
-<p align="left">
-  Jangan ragu untuk terhubung dengan saya!
-  <br><br>
-  <a href="mailto:your-email@example.com" target="_blank">
+<p align="center">
+  <a href="mailto:muhammad26rifky06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-rifky-71381a193/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
