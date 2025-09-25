@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portofolio-rifky.vercel.app" target="_blank">
+  <a href="https://portofolio-kyce.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-d946ef?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:muhammad26rifky06@gmail.com" target="_blank">
