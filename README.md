@@ -9,6 +9,9 @@
   </p>
 
   <p>
+    <a href="https://portofolio-rifky.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-d946ef?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Website"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=KYCE26&label=Pengunjung+Profil&color=0e75b6&style=for-the-badge" alt="penghitung pengunjung" />
   </p>
 
@@ -37,7 +40,7 @@
   <tr>
     <td align="left" valign="top"><strong>Frontend (Web)</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css" height="40" />
+      <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,tailwindcss" height="40" />
     </td>
   </tr>
   <tr>
@@ -55,7 +58,7 @@
   <tr>
     <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" height="40" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel" height="40" />
     </td>
   </tr>
 </table>
@@ -83,6 +86,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portofolio-rifky.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-d946ef?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:muhammad26rifky06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
