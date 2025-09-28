@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://portofolio-rifky.vercel.app" target="_blank">
+    <a href="https://portofolio-kyce.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-d946ef?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Website"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=KYCE26&label=Pengunjung+Profil&color=0e75b6&style=for-the-badge" alt="penghitung pengunjung" />
