@@ -9,7 +9,11 @@
   </p>
 
   <p>
+<<<<<<< HEAD
     <a href="https://www.portofoliorifky.my.id/" target="_blank">
+=======
+    <a href="https://portofolio-kyce.vercel.app" target="_blank">
+>>>>>>> 235742217266f9c562169b161c64842fcb42a318
       <img src="https://img.shields.io/badge/Portfolio-d946ef?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Website"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=KYCE26&label=Pengunjung+Profil&color=0e75b6&style=for-the-badge" alt="penghitung pengunjung" />
