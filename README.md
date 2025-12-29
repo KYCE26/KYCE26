@@ -40,7 +40,7 @@
   <tr>
     <td align="left" valign="top"><strong>Frontend (Web)</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=vue,vite,js,ts,html,css,tailwindcss" height="40" />
+      <img src="https://skillicons.dev/icons?i=vue,vite,ts,tailwindcss" height="40" />
     </td>
   </tr>
   <tr>
