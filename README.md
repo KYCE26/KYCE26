@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="900">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="900">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <br>
@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="900">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <p align="center">
@@ -78,17 +78,17 @@
   </tr>
   <tr>
     <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
-    <td align="left">
+    <td align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px;">
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,androidstudio" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" height="40" alt="Railway" />
-      <img src="https://cdn.simpleicons.org/wsl/0078D4" height="40" alt="WSL" />
+      <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white" height="40" alt="WSL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Lite (TFLite)" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="900">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
 <p align="center">
