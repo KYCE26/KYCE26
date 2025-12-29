@@ -33,7 +33,7 @@
   <tr>
     <td align="left" valign="top"><strong>Frontend (Mobile)</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" height="40" />
+      <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" />
     </td>
   </tr>
@@ -58,7 +58,7 @@
   <tr>
     <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel" height="40" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,androidstudio" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Lite (TFLite)" />
     </td>
   </tr>
