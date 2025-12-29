@@ -25,6 +25,45 @@
 
 <br>
 
+<h3 align="center">🏆 Proyek Unggulan</h3>
+
+<table align="center">
+  <tr>
+    <td align="left" valign="top"><strong>Frontend (Mobile)</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Frontend (Web)</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=vue,vite,ts,tailwindcss" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Backend</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=php,laravel,go,fastapi" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Database</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,androidstudio,railway,wsl&v=1" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Lite (TFLite)" />
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Kemampuan_&_Teknologi-7aa2f7?style=for-the-badge&logoColor=white" alt="Kemampuan & Teknologi"/>
 </p>
@@ -57,7 +96,7 @@
   </tr>
   <tr>
     <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
-<td align="left">
+    <td align="left">
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,androidstudio,railway,wsl" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Lite (TFLite)" />
     </td>
