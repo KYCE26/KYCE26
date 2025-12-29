@@ -46,7 +46,7 @@
   <tr>
     <td align="left" valign="top"><strong>Backend</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=php,laravel,go" height="40" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,go,fastapi" height="40" />
     </td>
   </tr>
   <tr>
@@ -57,8 +57,8 @@
   </tr>
   <tr>
     <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,androidstudio" height="40" />
+<td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,androidstudio,railway,wsl" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Lite (TFLite)" />
     </td>
   </tr>
