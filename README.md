@@ -8,7 +8,7 @@
   <br>
 
   <p align="center">
-    Saya seorang <b>mahasiswa D4 Teknik Informatika di Universitas Logistik dan Bisnis Internasional (ULBI)</b> dengan minat yang mendalam pada pengembangan <b>Frontend (UI/UX)</b> dan <b>Aplikasi Mobile</b>. Meskipun fokus utama saya di sana, saya juga memiliki kemampuan <b>Fullstack</b> yang solid, termasuk membangun API backend menggunakan <strong>Laravel</strong> dan <strong>Golang</strong>.
+    Saya seorang <b>mahasiswa D4 Teknik Informatika di Universitas Logistik dan Bisnis Internasional (ULBI)</b> dengan minat yang mendalam pada pengembangan <b>Frontend (UI/UX)</b> dan <b>Aplikasi Mobile</b>. Meskipun fokus utama saya di sana, saya juga memiliki kemampuan <b>Fullstack</b> yang solid, termasuk membangun API backend performa tinggi.
   </p>
 
   <p align="center">
@@ -47,27 +47,55 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Kemampuan_&_Teknologi-7aa2f7?style=for-the-badge&logoColor=white" alt="Kemampuan & Teknologi"/>
+  <img src="https://img.shields.io/badge/👑_ARSENAL_UTAMA_(EXPERT)-FFD700?style=for-the-badge&logo=crown&logoColor=black" alt="Main Arsenal"/>
+</p>
+
+<div align="center">
+  <table style="border: 2px solid #FFD700; border-radius: 10px;">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <a href="https://kotlinlang.org/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=kotlin" height="60" title="Kotlin (Mobile Master)" />
+        </a>
+        <a href="https://vuejs.org/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=vue" height="60" title="Vue.js (Frontend Master)" />
+        </a>
+        <a href="https://vitejs.dev/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=vite" height="60" title="Vite (Build Tool)" />
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=ts" height="60" title="TypeScript (Type Safety)" />
+        </a>
+        <a href="https://fastify.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" height="60" title="Fastify (High Performance Backend)" />
+        </a>
+        <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank">
+           <img src="https://img.shields.io/badge/WSL_2-0078D4?style=for-the-badge&logo=linux&logoColor=white" height="60" title="WSL (Environment)" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <i>Tools di atas adalah teknologi yang saya kuasai secara mendalam dan saya gunakan sehari-hari untuk membangun aplikasi production-ready.</i>
+</div>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛠️_Teknologi_Pendukung-7aa2f7?style=for-the-badge&logoColor=white" alt="Teknologi Lainnya"/>
 </p>
 
 <table align="center">
   <tr>
-    <td align="left" valign="top"><strong>Frontend (Mobile)</strong></td>
+    <td align="left" valign="top"><strong>Frontend Stack</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" height="40" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,tailwindcss" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" />
     </td>
   </tr>
   <tr>
-    <td align="left" valign="top"><strong>Frontend (Web)</strong></td>
+    <td align="left" valign="top"><strong>Backend Stack</strong></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=vue,vite,ts,tailwindcss" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top"><strong>Backend</strong></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=php,laravel,go,fastapi" height="40" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,go" height="40" />
     </td>
   </tr>
   <tr>
@@ -77,11 +105,10 @@
     </td>
   </tr>
   <tr>
-    <td align="left" valign="top"><strong>Tools & Lainnya</strong></td>
+    <td align="left" valign="top"><strong>Tools & Cloud</strong></td>
     <td align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px;">
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,androidstudio" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" height="40" alt="Railway" />
-      <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white" height="40" alt="WSL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow Lite (TFLite)" />
     </td>
   </tr>
