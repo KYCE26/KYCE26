@@ -36,29 +36,6 @@
 </div>
 
 <div align="center">
-  <h3>Project & Ecosystem</h3>
-  <p>Katalog sistem terpilih yang dibangun dan dikelola secara terintegrasi</p>
-</div>
-
-| Sistem | Deskripsi | Tautan |
-|---|---|---|
-| **SITEKAD** | Sistem aplikasi presensi dan manajemen data operasional enterprise | via Hub |
-| **Assiaf** | Website yayasan dengan integrasi payment gateway untuk sistem donasi | [assiaf.com](https://assiaf.com) |
-| **Kyce Hub** | Command center ekosistem portofolio pribadi | [portofoliorifky.my.id](https://www.portofoliorifky.my.id/) |
-
-<br>
-
-<div align="center">
-  <p style="font-size: 14px; font-style: italic; color: #94a3b8; max-width: 700px;">
-    Catatan: Terdapat proyek berskala enterprise (komersial) dan repositori privat lainnya yang tidak ditampilkan secara publik di halaman ini. Silakan hubungi saya secara langsung melalui email untuk akses demo atau diskusi lebih lanjut.
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-
-<div align="center">
   <h3>Core Tech Stack</h3>
   <p><i>Teknologi utama yang saya gunakan dalam lingkungan produksi tingkat lanjut</i></p>
 </div>
@@ -80,6 +57,29 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</div>
+
+<div align="center">
+  <h3>Project & Ecosystem</h3>
+  <p>Katalog sistem terpilih yang dibangun dan dikelola secara terintegrasi</p>
+</div>
+
+| Sistem | Deskripsi | Tautan |
+|---|---|---|
+| **SITEKAD** | Sistem aplikasi presensi dan manajemen data operasional enterprise | via Hub |
+| **Assiaf** | Website yayasan dengan integrasi payment gateway untuk sistem donasi | [assiaf.com](https://assiaf.com) |
+| **Kyce Hub** | Command center ekosistem portofolio pribadi | [portofoliorifky.my.id](https://www.portofoliorifky.my.id/) |
+
+<br>
+
+<div align="center">
+  <p style="font-size: 14px; font-style: italic; color: #94a3b8; max-width: 700px;">
+    Catatan: Terdapat proyek berskala enterprise (komersial) dan repositori privat lainnya yang tidak ditampilkan secara publik di halaman ini. Silakan hubungi saya secara langsung melalui email untuk akses demo atau diskusi lebih lanjut.
+  </p>
 </div>
 
 <div align="center">
@@ -112,8 +112,4 @@
   </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=KYCE26&style=flat-square&color=0EA5E9&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=⚡&fontSize=30&fontColor=0EA5E9" alt="Footer"/>
 </div>
