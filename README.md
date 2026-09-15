@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0EA5E9,100:6366F1&height=200&section=header&text=Muhammad%20Rifky&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descAlign=50" alt="Header banner"/>
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=MUHAMMAD%20RIFKY&fontSize=65&fontColor=0EA5E9&fontAlignY=55" alt="Muhammad Rifky"/>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Merancang+Ekosistem+Web+%26+Mobile+Skala+Enterprise;Mengelola+Infrastruktur+Self-Hosted+%26+Cloud+Native;Arsitektur+Backend+%26+Optimasi+Technical+SEO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=1200&color=6366F1&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer+%7C+IT+Specialist;Arsitektur+Backend+%26+Optimasi+Technical+SEO;Mengelola+Infrastruktur+Self-Hosted+%26+Cloud" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <p align="center" style="font-size: 16px; max-width: 720px;">
-    Full-Stack Developer dengan pengalaman profesional 3 tahun dalam merancang sistem web dan mobile berskala <i>enterprise</i> — dari antarmuka interaktif, RESTful API berkinerja tinggi, hingga orkestrasi Linux Server. Saat ini menuntaskan studi D4 Teknik Informatika di ULBI (2022–2026), bersertifikat SFPC, dan terbiasa bekerja dengan metodologi Agile.
+  <p align="center" style="font-size: 16px; max-width: 720px; line-height: 1.6;">
+    Halo! Saya adalah Full-Stack Developer dan IT Specialist dengan pengalaman profesional selama 3 tahun dalam merancang sistem web maupun mobile berskala enterprise. Saya terbiasa menangani seluruh siklus pengembangan proyek dari awal hingga akhir, mulai dari membangun antarmuka yang interaktif, merancang RESTful API berkinerja tinggi, hingga mengelola orkestrasi Linux Server secara mandiri. Saat ini saya sedang menuntaskan studi D4 Teknik Informatika di ULBI (2022-2026), memegang sertifikasi SFPC, dan terbiasa bekerja dengan ritme metodologi Agile.
   </p>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.portofoliorifky.my.id/" target="_blank">
@@ -89,7 +89,7 @@
 <div align="center">
   <h3>Self-Hosted Infrastructure</h3>
   <p style="max-width: 700px;">
-    Seluruh ekosistem di atas berjalan di atas home server pribadi — Mini PC berbasis Ryzen 7 yang menjalankan Ubuntu (WSL), diorkestrasi dengan PM2 dan Nginx, serta diekspos ke publik secara aman lewat Cloudflare Tunnel.
+    Seluruh ekosistem di atas berjalan di atas home server pribadi yaitu Mini PC berbasis Ryzen 7 yang menjalankan Ubuntu (WSL). Infrastruktur ini diorkestrasi dengan PM2 dan Nginx, serta diekspos ke publik secara aman melalui Cloudflare Tunnel.
   </p>
 </div>
 
@@ -115,5 +115,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0B1120&height=120&section=footer" alt="Footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=⚡&fontSize=30&fontColor=0EA5E9" alt="Footer"/>
 </div>
