@@ -59,14 +59,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KYCE26/KYCE26/output/github-snake.svg" alt="Snake animation" style="max-width: 100%;" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-
-<div align="center">
   <h3>Core Tech Stack</h3>
   <p><i>Teknologi utama yang saya gunakan dalam lingkungan produksi tingkat lanjut</i></p>
 </div>
@@ -106,24 +98,7 @@
 </div>
 
 <div align="center">
-  <h3>GitHub Analytics</h3>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KYCE26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0" width="48%" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=KYCE26&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9" width="48%" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYCE26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&text_color=E2E8F0&langs_count=8" width="55%" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KYCE26&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=0EA5E9&line=6366F1&point=F59E0B" width="95%" alt="Contribution activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KYCE26&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+  <img src="https://raw.githubusercontent.com/KYCE26/KYCE26/output/github-snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
 
 <div align="center">
