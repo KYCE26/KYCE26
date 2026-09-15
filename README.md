@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0EA5E9,100:6366F1&height=200&section=header&text=Muhammad%20Rifky&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Biometric%20Security%20Engineer&descAlignY=58&descAlign=50" alt="Header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0EA5E9,100:6366F1&height=200&section=header&text=Muhammad%20Rifky&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Specialist%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" alt="Header banner"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Merancang+Ekosistem+Web+%26+Mobile+Skala+Enterprise;Mengimplementasikan+Keamanan+Biometrik+%26+Face+Recognition;Mengelola+Infrastruktur+Self-Hosted+%26+Cloud+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Merancang+Ekosistem+Web+%26+Mobile+Skala+Enterprise;Mengembangkan+RESTful+API+%26+Sistem+Database;Mengelola+Infrastruktur+Self-Hosted+%26+Cloud+Native" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <p align="center" style="font-size: 16px; max-width: 720px;">
-    Full-Stack Developer dengan pengalaman profesional 3 tahun dalam merancang sistem web dan mobile berskala <i>enterprise</i> — dari antarmuka interaktif, RESTful API berkinerja tinggi, hingga orkestrasi Linux Server. Saat ini menuntaskan studi D4 Teknik Informatika di ULBI (2022–2026), bersertifikat SFPC, dan terbiasa bekerja dengan metodologi Agile.
+    Seorang <b>IT Specialist & Full-Stack Developer</b> dengan pengalaman profesional 3 tahun dalam merancang sistem web dan mobile berskala <i>enterprise</i> — dari antarmuka interaktif, RESTful API berkinerja tinggi, hingga orkestrasi Linux Server. Bersertifikat SFPC dan terbiasa bekerja dengan metodologi Agile untuk pengiriman <i>software</i> yang terukur.
   </p>
 </div>
 
@@ -36,15 +36,31 @@
 </div>
 
 <div align="center">
-  <h3>SITEKAD</h3>
-  <p><i>Sistem presensi modern dengan lapisan keamanan biometrik penuh</i></p>
+  <h3>🚀 Rekam Jejak Project</h3>
+  <p>Beberapa sistem operasional yang telah saya kembangkan dan kelola</p>
 </div>
 
 <div align="center">
-  <p style="max-width: 620px; text-align: left;">
-    &bull; Mendeteksi keaslian wajah secara real-time untuk mencegah spoofing lewat foto atau video.<br>
-    &bull; Mencocokkan identitas menggunakan face embedding dengan presisi tinggi.<br>
-    &bull; Memvalidasi lokasi presensi secara real-time melalui algoritma Haversine (geofencing).
+  <table style="background-color: transparent; border: 1px solid #0EA5E9; border-radius: 8px;">
+    <tr>
+      <th align="center" style="padding: 10px;">Nama Project</th>
+      <th align="center" style="padding: 10px;">Deskripsi & Tech Stack</th>
+      <th align="center" style="padding: 10px;">Akses</th>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;"><b>SITEKAD</b></td>
+      <td align="left" style="padding: 10px;">Sistem presensi mobile modern skala <i>enterprise</i> (Kotlin, Go, MySQL).</td>
+      <td align="center" style="padding: 10px;"><i>Private / Internal</i></td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;"><b>Assiaf</b></td>
+      <td align="left" style="padding: 10px;">Portal website yayasan & platform donasi <i>online</i> (Vue.js, API).</td>
+      <td align="center" style="padding: 10px;"><a href="https://assiaf.com">assiaf.com</a></td>
+    </tr>
+  </table>
+  <br>
+  <p style="font-size: 14px; max-width: 600px;">
+    <i>✨ Untuk melihat detail kode, arsitektur, atau demo project komersial privat lainnya, silakan chat / hubungi saya secara langsung. ✨</i>
   </p>
 </div>
 
@@ -53,25 +69,15 @@
 </div>
 
 <div align="center">
-  <h3>Kyce Ecosystem</h3>
-  <p>Satu hub, banyak sistem — seluruhnya terhubung dan di-hosting mandiri</p>
+  <img src="https://raw.githubusercontent.com/KYCE26/KYCE26/output/github-snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
-
-| Sistem | Deskripsi | Akses |
-|---|---|---|
-| **Kyce Command Center** | Hub ekosistem portofolio pribadi yang menghubungkan seluruh sub-proyek di bawah satu domain | [portofoliorifky.my.id](https://www.portofoliorifky.my.id/) |
-| **OniKomik** | Platform hosting komik horror & fantasy, dengan backend Go dan frontend Vue.js | [onikomik.site](https://onikomik.site) |
-| **Assiaf** | Website yayasan dengan integrasi payment gateway untuk donasi yang transparan | via Kyce Command Center |
-| **Menkrep** | Modul tambahan dalam ekosistem Kyce Command Center | via Kyce Command Center |
-
-<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </div>
 
 <div align="center">
-  <h3>Core Tech Stack</h3>
+  <h3>⚡ Core Tech Stack</h3>
   <p><i>Teknologi utama yang saya gunakan dalam lingkungan produksi tingkat lanjut</i></p>
 </div>
 
@@ -99,9 +105,9 @@
 </div>
 
 <div align="center">
-  <h3>Self-Hosted Infrastructure</h3>
+  <h3>🖥️ Self-Hosted Infrastructure</h3>
   <p style="max-width: 700px;">
-    Seluruh ekosistem di atas berjalan di atas home server pribadi — Mini PC berbasis Ryzen 7 yang menjalankan Ubuntu (WSL), diorkestrasi dengan PM2 dan Nginx, serta diekspos ke publik secara aman lewat Cloudflare Tunnel.
+    Seluruh ekosistem layanan privat saya berjalan di atas <i>home server</i> pribadi — Mini PC berbasis Ryzen 7 yang menjalankan Ubuntu (WSL), diorkestrasi dengan PM2 dan Nginx, serta diekspos ke publik secara aman lewat Cloudflare Tunnel.
   </p>
 </div>
 
@@ -110,7 +116,7 @@
 </div>
 
 <div align="center">
-  <h3>GitHub Analytics</h3>
+  <h3>📈 GitHub Analytics</h3>
 </div>
 
 <div align="center">
@@ -128,14 +134,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KYCE26&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KYCE26/KYCE26/output/github-snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
 
 <div align="center">
