@@ -72,7 +72,7 @@
 |---|---|---|
 | **SITEKAD** | Sistem aplikasi presensi dan manajemen data operasional enterprise | via Hub |
 | **Assiaf** | Website yayasan dengan integrasi payment gateway untuk sistem donasi | [assiaf.com](https://assiaf.com) |
-| **Kyce Hub** | Command center ekosistem portofolio pribadi | [portofoliorifky.my.id](https://www.portofoliorifky.my.id/) |
+| **Kyce Hub** | Command center ekosistem portofolio pribadi | [kyce.my.id](https://www.kyce.my.id/) |
 
 <br>
 
