@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.portofoliorifky.my.id/" target="_blank">
+  <a href="https://www.kyce.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portofolio-0F172A?style=for-the-badge&logo=Vercel&logoColor=0EA5E9" alt="Portfolio Website"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-rifky-71381a193/" target="_blank">
